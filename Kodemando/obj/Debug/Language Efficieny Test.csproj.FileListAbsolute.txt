@@ -1,0 +1,21 @@
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\Language Efficieny Test.csprojResolveAssemblyReference.cache
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.Delete.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.Faculty.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.MasterEntry.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.Register_Course.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.Report.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.ReviewForm.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.RulesForm.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.ScoreReport.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.SelectExam.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.Stud_Register.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.AddQuestion.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.TestForm.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.LoginForm.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing_ADO.Net.Properties.Resources.resources
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\Language Efficieny Test.csproj.GenerateResource.Cache
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing ADO.Net.exe
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Debug\OnLineTestUsing ADO.Net.pdb
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\bin\Debug\OnLineTestUsing ADO.Net.exe.config
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\bin\Debug\OnLineTestUsing ADO.Net.exe
+D:\Studies\Projects\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\bin\Debug\OnLineTestUsing ADO.Net.pdb

@@ -1,0 +1,15 @@
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Release\ResolveAssemblyReference.cache
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Release\OnLineTestUsing_ADO.Net.RulesForm.resources
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Release\OnLineTestUsing_ADO.Net.LoginForm.resources
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Release\OnLineTestUsing_ADO.Net.Properties.Resources.resources
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Release\OnLineTestUsing ADO.Net.csproj.GenerateResource.Cache
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\bin\Release\OnLineTestUsing ADO.Net.exe
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\bin\Release\OnLineTestUsing ADO.Net.pdb
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Release\OnLineTestUsing ADO.Net.exe
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Release\OnLineTestUsing ADO.Net.pdb
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Release\OnLineTestUsing_ADO.Net.MasterEntry.resources
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Release\OnLineTestUsing_ADO.Net.SelectExam.resources
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Release\OnLineTestUsing_ADO.Net.TestForm.resources
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Release\OnLineTestUsing_ADO.Net.Stud_Register.resources
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\bin\Release\OnLineTestUsing ADO.Net.exe.config
+D:\Studies\NiitPrograms\OnLineTestUsing ADO.Net\Backup\OnLineTestUsing ADO.Net\obj\Release\OnLineTestUsing_ADO.Net.ReviewForm.resources
